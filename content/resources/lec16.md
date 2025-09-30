@@ -5,6 +5,8 @@ description: This resource contains information to be covered in Lecture 16 by P
 file: /courses/2-001-mechanics-materials-i-fall-2006/ba4437f95df6b0f9b9476ec8b73ff27f_lec16.pdf
 file_size: 968865
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,6 +5,8 @@ description: This resource contains information to be covered in Lecture 9 by Pr
 file: /courses/2-001-mechanics-materials-i-fall-2006/dfbefba09e533f1349690e6e410d5524_lec9.pdf
 file_size: 322046
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

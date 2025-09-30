@@ -5,6 +5,8 @@ description: This resource contains information to be covered in Lecture 3 by Pr
 file: /courses/2-001-mechanics-materials-i-fall-2006/0fec94f7fb6b9e6d2e9383560e971555_lec3.pdf
 file_size: 932121
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
