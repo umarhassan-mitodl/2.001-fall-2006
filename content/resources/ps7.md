@@ -5,8 +5,6 @@ description: This resource contains 6 problems to test students understanding of
 file: /courses/2-001-mechanics-materials-i-fall-2006/715236c07ab2385f5afe229e65c5cb08_ps7.pdf
 file_size: 68644
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -30,7 +30,6 @@
     "website": "2-001-mechanics-materials-i-fall-2006"
   },
   "course_title": "Mechanics & Materials I",
-  "hide_download": true,
   "course_description": "This course provides an introduction to the mechanics of solids with applications to science and engineering. We emphasize the three essential features of all mechanics analyses, namely: (a) the geometry of the motion and/or deformation of the structure, and conditions of geometric fit, (b) the forces on and within structures and assemblages; and (c) the physical aspects of the structural system (including material properties) which quantify relations between the forces and motions/deformation.\n",
   "department_numbers": [
     "2"
@@ -41,7 +40,6 @@
     "content": "3846e0ea-5496-e872-8035-9458c7103530",
     "website": "2-001-mechanics-materials-i-fall-2006"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"

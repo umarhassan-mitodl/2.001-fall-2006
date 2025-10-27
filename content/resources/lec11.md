@@ -5,8 +5,6 @@ description: This resource contains information to be covered in Lecture 11 by P
 file: /courses/2-001-mechanics-materials-i-fall-2006/8c2fdc8b3ddcced1d5c8a096df3f59ef_lec11.pdf
 file_size: 239168
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

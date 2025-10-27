@@ -6,8 +6,6 @@ description: These two finite element volume renderings of a deformed beam compa
 file: /courses/2-001-mechanics-materials-i-fall-2006/e90af00d77791fe1df8f47747c23529b_chp_finitebeam.jpg
 file_size: 71682
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

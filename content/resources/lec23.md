@@ -5,8 +5,6 @@ description: This resource contains information to be covered in Lecture 23 by P
 file: /courses/2-001-mechanics-materials-i-fall-2006/47d38fd6ffa939a3c349db089066b5cd_lec23.pdf
 file_size: 369892
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

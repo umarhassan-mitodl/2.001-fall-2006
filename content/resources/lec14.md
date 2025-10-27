@@ -4,8 +4,6 @@ description: Notes on topics covered in the lecture.
 file: /courses/2-001-mechanics-materials-i-fall-2006/bd0c65066e01f2a16313d1903725b14d_lec14.pdf
 file_size: 244233
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
